@@ -1,0 +1,15 @@
+#ifndef COLLISIONDETECTION_
+#define COLLISIONDETECTION_
+
+
+class CollisionDetection
+{
+    public:
+        CollisionDetection(CollisionDetection);
+
+    protected:
+
+    private:
+};
+
+#endif // COLLISIONDETECTION_

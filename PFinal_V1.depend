@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1668813206 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1668811213 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1669614420 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"RgbImage.h"
+	"Stage.h"
+	"FileManager.h"
+	"Cubo.h"
+	"Movement.h"
+	"Arbol.h"
+	"ControlV.h"
+	<GL/glut.h>
+	<math.h>
+
+1426371328 a:\principal\documentos\code projects\codeblocks\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 a:\principal\documentos\code projects\codeblocks\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1669614158 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\stage.cpp
+	"Stage.h"
+	"Cubo.h"
+	"Piramide.h"
+	"CollisionDetection.h"
+	"Arbol.h"
+	"Casa.h"
+	"Slimes.h"
+	"ControlV.h"
+
+1669073823 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\stage.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	<GL/glut.h>
+	<math.h>
+
+1669068537 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\filemanager.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	<GL/glut.h>
+	<math.h>
+
+1669589517 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\filemanager.cpp
+	"FileManager.h"
+
+1669415067 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\cubo.cpp
+	"Cubo.h"
+
+1669415067 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\cubo.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	<GL/glut.h>
+	<math.h>
+
+1669613159 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\collisiondetection.cpp
+	"CollisionDetection.h"
+
+1669613178 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\collisiondetection.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	<GL/glut.h>
+	<math.h>
+
+1669522937 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\movement.cpp
+	"Movement.h"
+
+1669512213 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\movement.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
+1669579774 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\piramide.cpp
+	"Piramide.h"
+
+1669579338 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\piramide.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	<GL/glut.h>
+	<math.h>
+
+1669580566 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\arbol.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	"Cubo.h"
+	"Piramide.h"
+	<GL/glut.h>
+	<math.h>
+
+1669613204 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\arbol.cpp
+	"Arbol.h"
+	"CollisionDetection.h"
+
+1669613235 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\casa.cpp
+	"Casa.h"
+
+1669587059 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\casa.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	"Cubo.h"
+	"Piramide.h"
+	"CollisionDetection.h"
+	<GL/glut.h>
+	<math.h>
+
+1669591601 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\slimes.cpp
+	"Slimes.h"
+
+1669589540 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\slimes.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	"Cubo.h"
+	"Piramide.h"
+	"CollisionDetection.h"
+	<GL/glut.h>
+	<math.h>
+
+1669611769 a:\principal\documentos\code projects\codeblocks\pfinal_v1\include\controlv.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	"RgbImage.h"
+	<GL/glut.h>
+	<math.h>
+
+1669614070 source:a:\principal\documentos\code projects\codeblocks\pfinal_v1\src\controlv.cpp
+	"ControlV.h"
+

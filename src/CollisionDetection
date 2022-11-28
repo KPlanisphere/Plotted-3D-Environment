@@ -1,0 +1,6 @@
+#include "CollisionDetection."
+
+CollisionDetection::CollisionDetection(CollisionDetection)
+{
+    //ctor
+}
